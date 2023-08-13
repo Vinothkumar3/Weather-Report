@@ -123,6 +123,10 @@ body{
 }
 
 .invalid{
+    display: none;
+}
+
+.invalid{
     font-size: 2rem;
     margin-left: 3.3rem;
     margin-top: 0.5rem ;
