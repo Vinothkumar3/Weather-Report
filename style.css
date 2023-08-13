@@ -46,11 +46,11 @@ body{
     color: rgb(54, 53, 53);
     padding: 1rem 3rem;
     height: 3.2rem;
-    min-width: 12em;
+    min-width: 10.9em;
     border-radius: 1rem;
     flex: 1;
     margin-right: 0.5rem;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 .search button{
